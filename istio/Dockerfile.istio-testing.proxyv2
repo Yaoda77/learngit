@@ -1,0 +1,1 @@
+FROM myriaddreamin/istio-testing.proxyv2
