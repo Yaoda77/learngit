@@ -1,0 +1,1 @@
+FROM docker pull nvcr.io/nvidia/tensorrt:21.04-py3
